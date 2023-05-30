@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.feature-sec{
+	padding:60px 0;
+	
+}
+.container{
+	width:70%;
+	margin:auto;
+}
+.feature-row{
+	
+	padding:140px;
+}
+.alert{
+	display:flex;
+	justify-content:space-between;
+	margin:auto;
+	background-color:#33ccff;
+	padding:15px;
+	border-radius:3px;
+}
+button{
+	border:none;
+	font-size:20px;
+	background-color:red;
+}
+.hide{
+	display:none;
+}
